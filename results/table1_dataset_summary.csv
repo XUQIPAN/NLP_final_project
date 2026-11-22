@@ -1,0 +1,6 @@
+﻿character,positive,negative,total,repo_ratio,paper_ratio,delta
+SpiderMan,82,118,200,0.410,0.410,+0.000
+BatMan,103,97,200,0.515,0.510,+0.005
+IronMan,86,114,200,0.430,0.440,-0.010
+SuperMan,106,94,200,0.530,0.530,+0.000
+SuperMario,128,72,200,0.640,0.640,+0.000

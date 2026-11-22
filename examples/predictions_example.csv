@@ -1,0 +1,6 @@
+model,setting,image_id,response
+example-vlm,0-shot,0.png,"Yes, Iron Man."
+example-vlm,0-shot,1.png,"No."
+example-vlm,0-shot,2.png,"No."
+example-vlm,0-shot,3.png,"Yes, Iron Man."
+example-vlm,0-shot,4.png,"No."
