@@ -1,10 +1,6 @@
 # Copyright-Infringement VLM Benchmark
 
-Supplementary code for a course project based on the paper:
-
-> Qipan Xu, Zhenting Wang, Xiaoxiao He, Ligong Han, and Ruixiang Tang.  
-> *Can Large Vision-Language Models Detect Images Copyright Infringement from GenAI?*  
-> arXiv:2502.16618, 2025.
+Supplementary code for a course project.
 
 This package reproduces the public evaluation workflow for the paper's dataset statistics and vision-language-model classification metrics. It deliberately excludes the 1,000 benchmark images so that the supplementary archive remains small.
 
